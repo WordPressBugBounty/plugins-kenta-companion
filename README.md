@@ -1,0 +1,1 @@
+# plugins-kenta-companion
