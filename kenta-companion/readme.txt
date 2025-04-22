@@ -1,9 +1,9 @@
 === Kenta Companion ===
-Contributors: ibllex, wpmoose
+Contributors: wpmoose
 Tags: widget, widgets
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 Requires at least: 5.4
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -13,6 +13,11 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Kenta Companion is an extension to the Kenta theme. It provides a lot of features and one-click demo import for Kenta Theme. Learn more: https://kentatheme.com/
 
 == Changelog ==
+
+= v1.3.2 =
+
+* Ref: WordPress 6.8 ready
+* Fix: _load_textdomain_just_in_time was called incorrect error
 
 = v1.3.1 =
 
